@@ -1,1 +1,2 @@
 “Usuario=vagrant”
+model name	: AMD Athlon Silver 3050U with Radeon Graphics
