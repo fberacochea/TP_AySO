@@ -1,0 +1,138 @@
+ls
+cd repogit/
+ls
+git clone https://github.com/fberacochea/repo_arq.git
+ls
+vagrant halt
+cd ..
+vagrant halt
+cd repogit/
+cd repo_arq/
+ls
+ls -la
+clear
+ls
+cd ..
+ls
+rm repo_arq/
+rm -a repo_arq/
+rm -- help
+rm --help
+rm -d repo_arq/
+rm -R repo_arq/
+ls
+clear
+git clone https://github.com/fberacochea/repo_arq.git
+ls
+cd repo_arq/
+ls
+cd ..
+history
+history > historial.txt
+ls
+cat historial.txt 
+git status
+ls
+md historial.txt repo_arq/
+cd repo_arq/
+history > historial.txt
+git status
+git add .
+git status
+git commit -m "Primer commit"
+git config --global user.email "francoberacochea@gmail.com"
+git config --global user.name "fberacochea"
+git commit -m "Primer commit"
+git push 
+cd ..
+ls
+rm historial.txt 
+exit
+ls
+cd repogit/
+ls -l
+sudo rm -r repo_arq/
+ls -l
+git clone git@github.com:fberacochea/repo_arq.git
+ls
+echo hola
+echo hola > hola.txt
+ls -l
+git status
+ls -l
+rm hola.txt 
+cd repo_arq/
+echo hola > hola.txt
+ls -l
+git status
+git add .
+git status
+git commit -m "Primer comit 311"
+git push
+cd ..
+sudo rm -r repo_arq/
+ls 
+git clone git@github.com:fberacochea/repo_arq.git
+sudo rm -r repo_arq/
+git clone git@github.com:fberacochea/repo_beracochea.git
+cd repo_beracochea/
+history > historial.txt
+cat historial.txt 
+git status
+git add .
+git commit -m "comit 311"
+git push
+ls 
+clear
+cat /etc/passwd
+grep bash /etc/passwd > archivo.txt
+ls
+cat archivo.txt 
+sort archivo.txt 
+man sort 
+shut up
+halt
+vagrant halt
+exit
+clear
+ñ
+
+ls repogit/
+ls repogit/repo_arq/
+cd repogit/
+pwd
+cd ..
+pwd
+ssh-keygen -t ed25519
+ls -l
+ls -la
+cd .ssh
+ls
+cat id_ed25519.pub 
+cd ..
+ls -l
+cd repogit/
+ls -l
+rm -r repo_arq/
+clear
+ls
+cd repogit/
+ls
+cd TP_AySO/
+ls
+cat README.md 
+echo Alumno: Franco Beracochea
+echo Alumno: Franco Beracochea > README.md 
+cat README.md 
+echo Division: div.311
+echo Division: 311 >> README.md 
+cat README.md 
+echo Turno: Noche >> README.md 
+cat README.md 
+git add README.md 
+git commit -m "Add: readme actualizado con datos alumno"
+git push
+history -a $HOME/.bash_history 
+ls
+ls -la $HOME
+history -a $HOME/.bash_history 
